@@ -1,3 +1,7 @@
+Deployé sur netlify
+
+https://exojeffnetlifaille.netlify.app/
+
 # jeffExo1
 
 This template should help get you started developing with Vue 3 in Vite.
